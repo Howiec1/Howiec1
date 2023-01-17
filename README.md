@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Howie C
-- 👀 I’m interested in web development and different technologies 
-- 🌱 I’m currently learning javascript, react and css
+- 👀 I’m interested in web development to become a fullstack developer!
+- 🌱 I’m currently learning JavaScript, C#, css and React 
 
 - 📫 You can reach me at howie3101@gmail.com
 
